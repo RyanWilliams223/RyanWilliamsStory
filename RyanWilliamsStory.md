@@ -2,7 +2,7 @@
 Insert Generic Story here
 
 ##Ryan Contribution
-Yee
+This is my contribution?
 
 
 ##Partner contribution
