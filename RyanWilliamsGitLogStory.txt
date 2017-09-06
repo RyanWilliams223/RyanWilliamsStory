@@ -15,5 +15,30 @@ Date:   Tue Sep 5 19:26:28 2017 -0700
 
     first commit
 
-## Part 2.
+## Part 2-4. (part 2 and 3 were put together in the video,
+and part 4 was really short, and my git log didnt seem to save for
+the first time, so im resubmitting the last 3 parts together.)
 
+commit f4b7d6c5d66739f88531e4f89d999bb7952898bc
+Author: RyanWilliams223 <williamsrc@student.swosu.edu>
+Date:   Tue Sep 5 20:21:23 2017 -0700
+
+    added my part 4 for the homework
+
+commit a5c7e73fc70eedb2f0d253734095086d74f36a64
+Author: RyanWilliams223 <williamsrc@student.swosu.edu>
+Date:   Tue Sep 5 19:36:12 2017 -0700
+
+    added a git log for part 1
+
+commit 2350bb0efadd5b561f75a71d6044b54d99438886
+Author: RyanWilliams223 <williamsrc@student.swosu.edu>
+Date:   Tue Sep 5 19:31:30 2017 -0700
+
+    added a story for the project
+
+commit dd557a3c890ed554dd66833eecf78146550ae353
+Author: RyanWilliams223 <williamsrc@student.swosu.edu>
+Date:   Tue Sep 5 19:26:28 2017 -0700
+
+    first commit
