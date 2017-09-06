@@ -1,0 +1,19 @@
+# Ryan Williams Git Log for Story
+
+## Part 1.
+
+$ git log
+commit 2350bb0efadd5b561f75a71d6044b54d99438886 (HEAD -> master, origin/master)
+Author: RyanWilliams223 <williamsrc@student.swosu.edu>
+Date:   Tue Sep 5 19:31:30 2017 -0700
+
+    added a story for the project
+
+commit dd557a3c890ed554dd66833eecf78146550ae353
+Author: RyanWilliams223 <williamsrc@student.swosu.edu>
+Date:   Tue Sep 5 19:26:28 2017 -0700
+
+    first commit
+
+## Part 2.
+
